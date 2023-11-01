@@ -1,14 +1,14 @@
-# Topic-on-Table-Processing
-This is a survey on the topic of Table Processing:blush:
+# Topic-on-Table-Recognition
+This is a survey on the topic of Table Recognition:blush:
 
-## Brief introduction to Table Processing Problems and this Repository
-**Table Processing** has long been a difficult problem for computer researchers. The mainstream of the academic world is to divide the problem of table processing into **Table detection** and **Table Structure Recognition**. 
+## Brief introduction to Table Recognition Problems and this Repository
+**Table Recognition** has long been a difficult problem for computer researchers. The mainstream of the academic world is to divide the problem of table recognition into **Table detection** and **Table Structure Recognition**. 
 
-Especially after the rise of **Deep Learning** in 2016, many researchers have entered this field and combined deep learning methods to explore **Table Processing**, which has brought us a lot of inspiration. At the same time, there are still many problems that have not been well solved.
+Especially after the rise of **Deep Learning** in 2016, many researchers have entered this field and combined deep learning methods to explore **Table Recognition**, which has brought us a lot of inspiration. At the same time, there are still many problems that have not been well solved.
 
 So this is a repository for the collection of **Table Detection** and **Table Structure Recognition** Models and Datasets based on **Deep Learning** methods.
 
-## Classification of Table Processing papers based on different topics(Some papers will cover several topics, so they will be repeated in these topics)
+## Classification of Table Recognition papers based on different topics(Some papers will cover several topics, so they will be repeated in these topics)
 ### DataSet (Baseline or Benchmark)
 * Göbel, Max, Tamir Hassan, Ermelinda Oro, and Giorgio Orsi. "ICDAR 2013 table competition." In 2013 12th International Conference on Document Analysis and Recognition, pp. 1449-1453. IEEE, 2013 [Paper Link](https://ieeexplore.ieee.org/abstract/document/6628853), [Home Page Link](https://rrc.cvc.uab.es/).
 * Gao, Liangcai, Xiaohan Yi, Zhuoren Jiang, Leipeng Hao, and Zhi Tang. "ICDAR2017 competition on page object detection." In 2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), vol. 1, pp. 1417-1422. IEEE, 2017. [Paper Link](https://ieeexplore.ieee.org/abstract/document/8270162), [Home Page Link](https://rrc.cvc.uab.es/).
